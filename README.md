@@ -1,58 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+# 👋 Hey there!
 
-</head>
-<body>
+![Description of GIF](assets/HandAnim.gif)
 
-<h1 align="left">👋 Hey there!</h1>
+## I'm Soham Wankhade
 
-<hr>
+🚀 Developer | 🛡️ Cybersecurity Enthusiast | 🤖 Machine Learning Learner | 📸 Photographer  
 
-<p align="left">Greetings! I'm Soham, an Explorer hailing from Maharashtra.</p>
+Welcome to my portfolio repository! I love working on web development, cybersecurity, and machine learning projects. Always exploring new technologies and building cool stuff. 😃
 
-<hr>
+## 📌 About Me
+- 🔧 Web Developer & Cybersecurity Enthusiast
+- 🤖 Currently diving into Machine Learning
+- 🎮 Gamer & Fitness Enthusiast
+- 📷 Passionate Photographer
 
-<h2 align="left">About Me</h2>
+## 🌐 Connect with Me
+- Portfolio: [sohamwankhade.me](#)
+- LinkedIn: [www.linkedin.com/in/sohamwankhade](#)
+- GitHub: [https://github.com/c0mradebat](#)
 
-<p align="left">✨ Crafting bugs since 2022<br>📚 Currently diving into C++ and Cybersecurity<br>🎯 Goal: Mastering the art of Full Stack Development<br>🎲 Fun Fact: I'm the ultimate fusion of bytes and barbells, coding defenses by day and capturing culinary creations and captivating landscapes by night! 📸💻🍳💪</p>
+## 🚀 Projects
+Check out my projects and feel free to contribute or reach out for collaborations!
 
-<hr>
+!
 
-<h2 align="left">Tech Arsenal</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo"  />
-</div>
-
-<hr>
-
-<h2 align="left">Connect with Me</h2>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/c0mrade88"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"  /></a>
-  <a href="[Your Discord Profile URL]"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo"  /></a>
-  <a href="[Your YouTube Profile URL]"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube logo"  /></a>
-  <a href="https://www.instagram.com/yaaarsoham/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo"  /></a>
-</div>
-
-<br clear="both">
-
-<img align="right" height="200" src="https://drive.google.com/uc?export=view&id=1JAv4NxPq5h61aTMC1PhcrsoND-lIQ1tx" />
-
-</body>
-
-</body>
-</html>
+---
+✨ _Thanks for visiting!_
