@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-![Description of GIF](assets/HandAnim.gif)
+![Description of GIF](assets/HandAnim.gif](https://drive.google.com/uc?export=view&id=1JAv4NxPq5h61aTMC1PhcrsoND-lIQ1tx)
 
 ## I'm Soham Wankhade
 
