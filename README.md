@@ -50,7 +50,9 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://drive.google.com/uc?export=view&id=1JAv4NxPq5h61aTMC1PhcrsoND-lIQ1tx" />
+
+</body>
 
 </body>
 </html>
